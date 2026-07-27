@@ -1,6 +1,3 @@
-# Lecture-Summarizer
-An AI-powered lecture summarizer that converts long lecture notes into concise, structured bullet points using Streamlit and LLMs.
-
 # Lecture Summarizer
 
 An AI-powered lecture summarizer built with Streamlit that converts lengthy lecture notes into concise, meaningful bullet points using a Large Language Model (LLM).
